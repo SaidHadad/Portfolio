@@ -34,7 +34,7 @@
   ## About The Project
 
   ![Portfolio](./assets/img/Capture.JPG) <br>
-  13th Challenge for the University of Toronto Coding Bootcamp
+  Preview of my live page
   
   ## Built With
 
