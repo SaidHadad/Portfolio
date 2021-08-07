@@ -543,7 +543,8 @@ footer {
   #p1 {
     font-size: 1.5rem;
   }
-  .profile {
+  .profile,
+  .portfolio-profile {
     width: auto;
     margin: 1em;
   }
@@ -562,5 +563,10 @@ footer {
 
   .footer-social-icons ul {
     width: 60%;
+  }
+
+  .content {
+    width: auto;
+    margin: 0;
   }
 }
