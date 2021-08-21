@@ -16,13 +16,13 @@
   <ol>
   <li><a href="#about-the-project">About The Project</a></li>
   <li><a href="#built-with">Built With</a></li>
-  <!-- <li>
+  <li>
     <a href="#getting-started">Getting Started</a>
     <ul>
-    <li><a href="#prerequisites">Prerequisites</a></li>
+    <!-- <li><a href="#prerequisites">Prerequisites</a></li> -->
     <li><a href="#installation">Installation</a></li>
     </ul>
-  </li> -->
+  </li>
   <li><a href="#contributing">Contributing</a></li>
   <li><a href="#license">License</a></li>
   <li><a href="#contact">Contact</a></li>
@@ -42,13 +42,18 @@
   * CSS
   * Bootrstap
   
-  <!-- GETTING STARTED -->
+  GETTING STARTED
   
-  <!-- ## Getting Started
+  <!-- <!-- ## Getting Started -->
 
-  ### Prerequisites
+  <!-- ### Prerequisites -->
 
-  ### Installation -->
+  ### Installation
+
+  This is my personal portfolio, in it you will find all about me and my projects. To check on the portfolio just follow the <a href="https://saidhadad.github.io/Portfolio/">Link</a> to my githubpages <br>
+
+  Feel free to contact me if you think there is any project/work you think I can apport on!
+
 
   <!-- CONTRIBUTING -->
     
